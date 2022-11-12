@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/MRXjs/img/main/GitHubProfile/MRXGItCoverImg.png)](https://suresranathunga.com/)
 <h1 align="center">Hi 👋, I'm MRX</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka 🚩</h3>
+<h3 align="center">A passionate full-stack developer from Sri Lanka 🚩</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/MRXjs/img/main/GitHubProfile/MRX.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrxjs&label=Profile%20views&color=0e75b6&style=flat" alt="mrxjs" /> </p>
